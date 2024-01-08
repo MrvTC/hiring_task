@@ -10,10 +10,10 @@
 
 ## Test 
 
-### Projenin testi Java diliyle intellij ideası kullanılarak Selenium ile test edilmiştir.
+### Projenin testi, `Java` diliyle intellij ideası kullanılarak `Selenium` ile test edilmiştir.
 
-### Otomasyon testini 2 türlü şekilde açabilirsiniz. Birincisi, yuka_testing klasörünün içinde src/test/java/Runners/Runners dosyasını Run ediniz. Bu şekilde Cucumber üzerinden rapor elde edilir. 
+### Otomasyon testini 2 türlü şekilde açabilirsiniz. Birincisi, `yuka_testing` klasörünün içinde `src/test/java/Runners/Runners` dosyasını `Run` ediniz. Bu şekilde `Cucumber` üzerinden rapor elde edilir. 
 
-### Diğer bir yol ise yine yuka_testing klasörünün içinde src/test/resources/Features/homepage.feature dosyasında isterseniz tüm senaryoyu Run edebilir ya da dosya içerisindeki spesifik senaryoları Run edebilirsiniz.
+### Diğer bir yol ise yine `yuka_testing` klasörünün içinde `src/test/resources/Features/homepage.feature` dosyasında isterseniz tüm senaryoyu `Run` edebilir ya da dosya içerisindeki spesifik senaryoları `Run` edebilirsiniz.
 
-### Manuel Test Senaryoları yuka_testing klasörünün içindeki YukaTest-Test Senaryoları(ManuelTest).xlsx excel dosyasındadır. 
+### `Manuel Test Senaryoları` yuka_testing klasörünün içindeki `YukaTest-Test Senaryoları(ManuelTest).xlsx` excel dosyasındadır. 
