@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/yuka_testing/.idea
+/.idea
+/yuka_testing/target
+/target
+/.iml
+/yuka_task/node_modules
+
+
