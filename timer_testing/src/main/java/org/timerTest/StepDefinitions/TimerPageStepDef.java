@@ -1,14 +1,14 @@
-package org.yukaTest.StepDefinitions;
+package org.timerTest.StepDefinitions;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
-import org.yukaTest.Pages.HomePage;
-import org.yukaTest.Utilities.BrowserUtils;
-import org.yukaTest.Utilities.ConfigurationReader;
-import org.yukaTest.Utilities.Driver;
+import org.timerTest.Pages.HomePage;
+import org.timerTest.Utilities.BrowserUtils;
+import org.timerTest.Utilities.ConfigurationReader;
+import org.timerTest.Utilities.Driver;
 
 import java.io.IOException;
 

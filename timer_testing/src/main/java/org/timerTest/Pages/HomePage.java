@@ -1,4 +1,4 @@
-package org.yukaTest.Pages;
+package org.timerTest.Pages;
 
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
@@ -7,7 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.yukaTest.Utilities.Driver;
+import org.timerTest.Utilities.Driver;
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 

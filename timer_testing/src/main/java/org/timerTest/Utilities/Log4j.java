@@ -1,4 +1,4 @@
-package org.yukaTest.Utilities;
+package org.timerTest.Utilities;
 
 
 import org.apache.log4j.Logger;

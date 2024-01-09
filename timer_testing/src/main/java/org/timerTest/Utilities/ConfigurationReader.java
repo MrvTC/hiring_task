@@ -1,4 +1,4 @@
-package org.yukaTest.Utilities;
+package org.timerTest.Utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;
